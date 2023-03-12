@@ -21,7 +21,7 @@ reviews = pd.read_csv("input/wine-reviews/winemag-data-130k-v2.csv", index_col=0
 # print(n_missing_prices)
 
 #reviews[reviews['region_1'].isna()].fillna('Unknown', inplace=True)
-
+ß
 
 #print(reviews[pd.isnull(reviews['region_1'])])
 #21247
